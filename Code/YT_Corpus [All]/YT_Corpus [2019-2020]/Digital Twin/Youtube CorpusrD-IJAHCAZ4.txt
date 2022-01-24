@@ -1,0 +1,1 @@
+ Relations between real and virtual objects can be modified at any time For example, to group certain types of actions A single virtual button can act on multiple real elements 

@@ -1,0 +1,1 @@
+ Domatica's EdgeServer IoT Technology running on Compulab allows instant edge connectivity with Modbus (RS485 & TCP), Profinet, KNX and other protocols Applied for multiple verticals, for instance: Agriculture Industry Smart Cities Building Automation And many other verticals 

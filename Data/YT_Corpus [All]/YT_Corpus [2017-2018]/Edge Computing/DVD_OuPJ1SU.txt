@@ -1,0 +1,1 @@
+ Configure your system by adding a Node to your network Select which protocols to use Then, select your device's manufacturer and equipment model, choose cloud services, and deploy it! The Node is now ready for data acquisition and data synchronization with cloud services. 

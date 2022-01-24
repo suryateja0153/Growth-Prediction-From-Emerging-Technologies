@@ -1,0 +1,1 @@
+ Fiddling around with electronics is often tedious. We propose off-line sensors that detect interactions without active electronics. Off-line sensors are 3D-printed and deployed, for example, to ensure proper handling. The state of an off-line sensor can be read-out using a standard capacitive touchscreen. 

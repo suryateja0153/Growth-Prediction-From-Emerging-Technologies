@@ -1,0 +1,1 @@
+ Use the following prediction terms to create inequality signs within your graph: 'less than', 'less than or equal to', 'greater than', 'greater than or equal to'. These terms should pre populate as you begin typing the first few letters for the inequality you are attempting to graph within the EquatIO graph editor. 

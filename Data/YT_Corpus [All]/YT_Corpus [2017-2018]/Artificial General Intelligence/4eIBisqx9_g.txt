@@ -1,0 +1,1 @@
+ Hello world, it's Siraj. And YOLO, You Only Look Once. That is the demo for Today's Video. We are gonna build Object Detection algorithm Called YOLO, You Only Look Once.                                                                                                                                                                                                                  

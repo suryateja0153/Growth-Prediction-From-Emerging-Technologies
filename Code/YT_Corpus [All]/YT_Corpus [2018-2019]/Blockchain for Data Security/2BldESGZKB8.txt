@@ -1,0 +1,1 @@
+ what is hashing? and what does it do? hashing is the process of converting an input of any lenght in to a fixed sized string of text using an mathematical function this means that any text, no matter how long it is can be converted into an array of numbers and letters through an algorythm                       

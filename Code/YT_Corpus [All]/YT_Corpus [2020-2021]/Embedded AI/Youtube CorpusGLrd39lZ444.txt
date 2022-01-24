@@ -1,0 +1,1 @@
+ Business operations span a wide variety of rule-based and knowledge-based work. A large chunk of this work can be automated using Robotics Process Automation, or RPA. Automation Anywhere has automated business processes and delivered the world's largest Digital Workforce in leading organizations across the globe. 

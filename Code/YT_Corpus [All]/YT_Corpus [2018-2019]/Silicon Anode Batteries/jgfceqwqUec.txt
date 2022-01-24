@@ -1,0 +1,1 @@
+ [ How do Lithium-ion batteries work ] [ Lithium-ion battery animation ] These released electrons run from the anode to the cathode. Along the way they power the device in this case a propellor During the charging process the electrons are replaced and return to the anode 

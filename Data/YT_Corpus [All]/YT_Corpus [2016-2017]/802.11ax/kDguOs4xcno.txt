@@ -1,0 +1,1 @@
+ Now, let's discuss WiFi security. The earlier WiFi security standard is called Wired Equivalent Privacy, or WEP. WEP has been shown to be easily pickable even when it is correctly configured. Therefore, you should no longer use WEP. The new standard is 802.11i, and it is implemented as WPA2. WPA stands for WiFi Protected Access II. 

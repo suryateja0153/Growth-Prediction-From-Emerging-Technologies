@@ -1,0 +1,1 @@
+ For nuclear non-proliferation analysts, auditability is paramount. If you get an answer from some AI system, it doesn't matter what the answer is, you need to have the basics. You need to have the individual documents that were used to generate that answer. And that auditability is a key part of our MARS project. 

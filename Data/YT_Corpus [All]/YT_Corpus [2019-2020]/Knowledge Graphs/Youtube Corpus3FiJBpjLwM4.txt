@@ -1,0 +1,1 @@
+ Correction: (C,D) is the midpoint of the two left most vertices of the rectangle. 

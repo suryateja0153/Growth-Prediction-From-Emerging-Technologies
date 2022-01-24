@@ -1,0 +1,1 @@
+ MARS stands for Mathematics for Artificial Reasoning in Science. The thrust that I lead within MARS is focused on AI systems, and how we can advance the state of the art with regards to explainability and autonomy within such systems. MARS is all about reasoning, reasoning, and reasoning. 

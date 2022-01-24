@@ -1,0 +1,1 @@
+ Domatica's IoT edge software running on HPE Edgeline EL20 It allows instant edge connectivity with Modbus (RS485 & TCP), Profinet, KNX and other protocols It is suitable for multiple verticals 

@@ -1,0 +1,1 @@
+ wicca is a projected ar workbench system for interactive kinetic art it supports the whole creation process in a single workspace a visual programming method enables the programming and simulation on the workspace wika facilitated a rapid and rich creation of the interactive kinetic picture frame these are some examples made by novice user using wika 

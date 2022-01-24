@@ -1,0 +1,1 @@
+ We generated a taxonomy for classifying video references by referent type and temporal specificity Using our taxonomy, we analyzed 2500 references containing timestamps and quotations Our proof-of-concept interface illustrates the feasibility of design concepts for typed referencing and in-situ dereferencing 

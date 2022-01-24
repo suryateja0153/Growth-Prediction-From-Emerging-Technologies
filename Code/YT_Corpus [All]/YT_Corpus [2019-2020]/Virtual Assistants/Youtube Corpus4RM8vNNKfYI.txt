@@ -1,0 +1,1 @@
+ if you would like our virtual assistant to transfer calls to your key personnel or answer common inquiries such as opening hours without having to contact you first you can add a rule you will need to provide us with a condition and an action to take for example you might want a message taken for all calls related to accounts 

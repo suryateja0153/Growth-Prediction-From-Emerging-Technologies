@@ -1,0 +1,1 @@
+ most AI functions as black boxes to physicians with limited computational knowledge to bridge this gap we conducted three research activities we proposed checks one an explainable AI system which enables physicians to explore and understand data-driven AI enabled chest x-ray analysis [Music] 

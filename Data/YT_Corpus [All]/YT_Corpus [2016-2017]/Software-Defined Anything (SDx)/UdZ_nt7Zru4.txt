@@ -1,0 +1,1 @@
+ Xenserver - Configureren van een link aggregation ( LACP ) Deze video zal laten zien hoe je link aggregation configureren op een server draait XenServer 6.5 Step 01 – Configure Xenserver Toegang tot de XenServer en configureren van de link aggregation zoals afgebeeld. In ons voorbeeld zullen we VLAN 100 en VLAN 200 te maken op de link aggregation-interface 

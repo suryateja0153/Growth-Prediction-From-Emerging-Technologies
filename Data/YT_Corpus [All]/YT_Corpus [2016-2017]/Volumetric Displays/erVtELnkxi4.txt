@@ -1,0 +1,1 @@
+ The fundamental concept of visual direct manipulation has no equivalent for tactile displays. We propose a new class of tactile displays that enable direct manipulation for our tactile sense. We illustrate the concept using a vibrotactile display mounted on the user's wrist. 

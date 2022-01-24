@@ -1,0 +1,1 @@
+ Hi, I'm Beatriz. In the next edition of Inside the Lab we will show you our new contribution to Artificial Vision: an algorithm for the automatic detection and tracking of objects based on Deep Learning techniques and integrated into a very low cost platform below 15 watts of power suitable for mobile applications. 
