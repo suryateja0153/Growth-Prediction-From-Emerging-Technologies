@@ -1,5 +1,13 @@
 # Growth Prediction from Emerging Technologies
 
+## Executive Summary
+
+Gartner Hype cycle is a graphical depiction of the most common patterns in new and upcoming technologies that is published every year. Looks something like below.
+
+![](Media/Image4.png)
+
+This gives a general idea on emerging technologies. The goal of this research project is to enable medium level and startup companies to make informed decisions on which new technologies they would like to invest resources which gives them higher chance of success in the technology rather than investing in something that might become obsolete in a couple years. This will save a considerable amount of resources in terms of capital and Research & Development costs for the company. In the long term, businesses can save a considerable amount of time and resources and make decisions that benefit the business in a positive way. 
+
 ## Problem Statement
 
 The topic of this research project is to predict Emerging technologies from the Gartner reports based on similarity analysis conducted on a companies financials like 10K reports and from platforms like YouTube where information is being shared form one node to another.
@@ -9,7 +17,7 @@ The topic of this research project is to predict Emerging technologies from the 
 ![](Media/Image1.jpg)
 
 ## Literature Review
-The principal goal of our literature review is to identify specific sources of financial and conversational text data which can then be mined for insights. For this study we chose SEC 10K data for all the businesses that fall in the Information technology domain. For the growth estimation aspect, we have chosen YouTube as data sourcing could be done via the API. The key emergence technology terms were sourced from Gartner’s Hype cycle for emerging technologies reports from the past six years (2015-2020).
+The principal goal of our literature review is to identify specific sources of financial and conversational text data which can then be mined for insights. For this study we chose SEC 10K data for all the businesses that fall in the Information technology domain. For the growth estimation aspect, we have chosen YouTube as data sourcing could be done via the API. The key emergence technology terms were sourced from Gartner’s Hype cycle for emerging technologies reports from the past six years (2015-2020). There is not much in terms of prior reseach that we found but based on our earlier dicussions we settled on developing a plan to find the best way to approach the problem which can be glanced at from the research idea infographic above. We have devised the plan to just give us a guiding path and we might have to change or tweak things (Based on the tools and technologies available to us) a little bit along the way (Which we do!) but the end goal is the game. 
 
 ## Building Corpus
 
@@ -384,6 +392,8 @@ This is followed by building a TF-IDF vectorizer as we are trying to extract som
 ![](Media/Image3.jpg)
 
 Cosine Similarity code can be found here (Cosine_Similarity.ipynb): [Similarity Analysis](Code/)
+
+The highest similarity score for a single company we got on the research project is **_~0.45_** (Higher the better) which has exceeded our initial predictions but this can be imporved in the future.
 
 ## Conclusion
 
