@@ -279,10 +279,7 @@ for keyword in keywords:
     end_year=str(get_end_year)
     part5="-01-01T00:00:00Z&fields=items(id(channelId%2CvideoId))%2CnextPageToken%2CprevPageToken"
     # Change this line with your YouTube Data API Key
-    part6="&key=AIzaSyBEZ73MUbzufi-L6K5P9eJkJbu8-bcagPA"
-
-    # Surya: AIzaSyBEZ73MUbzufi-L6K5P9eJkJbu8-bcagPA
-    # Darya: AIzaSyBSUE45QS_OUdiWvvgmUIcs6nTiGmcwuRo
+    part6="&key=YOUR_YOUTUBE_API_KEY"
     URL=str(part0+part1+part2+part3+begin_year+part4+end_year+part5+part6)
     page = requests.get(URL)
     
